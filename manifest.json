@@ -5,6 +5,6 @@
   "manifest_version": 3,
   "action": {
     "default_popup": "meme.html",
-    "default_icon": "sigmaicon.png"
+    "default_icon": "meme.pngh"
   }
 }
