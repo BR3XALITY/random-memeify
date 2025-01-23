@@ -1,0 +1,10 @@
+{
+  "name": "Random Meme",
+  "description": "Shows A Random Meme Every Time You Click It!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "meme.html",
+    "default_icon": "sigmaicon.png"
+  }
+}
